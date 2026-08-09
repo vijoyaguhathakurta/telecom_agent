@@ -68,7 +68,9 @@ telecom_logs.csv
 | Hyderabad| T123     | 2025-09-01 | 56         | -95 dBm         | High             | 12%             | Heavy user load     |
 | Delhi    | T456     | 2025-09-01 | 34         | -88 dBm         | Medium           | 8%              | Poor weather        |
 | Mumbai   | T789     | 2025-09-01 | 22         | -75 dBm         | Low              | 2%              | Normal operation    |
-| Hyderabad| T123     | 2025-09-02 | 72         | -97 dBm         | High             | 15%             | Peak hour traffic   |
+| Hyderabad| T123     | 2025-09-02 | 72         | -97 dBm         | High             | 15%             | Peak hour traffic   
+
+
 Sample Output
 User Query: 'Why are call drops high in Hyderabad?'
 
