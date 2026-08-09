@@ -1,0 +1,225 @@
+Region,Tower_ID,Date,Call_Drops,Signal_Strength_dBm,Congestion_Level,Handoff_Failure_Percent,Notes
+Bangalore,T321,2025-09-01,46,-87,High,10.1,Office-hours congestion
+Bangalore,T321,2025-09-02,54,-90,High,10.4,Weekend event nearby
+Bangalore,T321,2025-09-03,41,-86,Medium,6.9,Stable performance
+Bangalore,T321,2025-09-04,40,-85,High,9.3,Office-hours congestion
+Bangalore,T321,2025-09-05,49,-91,High,7.1,Recent equipment upgrade
+Bangalore,T321,2025-09-06,51,-87,High,7.3,Office-hours congestion
+Bangalore,T321,2025-09-07,53,-87,High,10.1,Weekend event nearby
+Bangalore,T321,2025-09-08,62,-95,High,7.0,Poor weather
+Bangalore,T321,2025-09-09,51,-87,High,7.1,Scheduled maintenance window
+Bangalore,T321,2025-09-10,45,-90,Medium,7.3,Routine traffic
+Bangalore,T321,2025-09-11,53,-94,Medium,10.2,Standard load conditions
+Bangalore,T321,2025-09-12,42,-89,Medium,7.7,Stable performance
+Bangalore,T321,2025-09-13,49,-87,High,7.3,Stable performance
+Bangalore,T321,2025-09-14,55,-90,High,7.9,Weekend event nearby
+Bangalore,T322,2025-09-01,22,-82,Medium,9.1,Normal operation
+Bangalore,T322,2025-09-02,38,-83,High,10.8,New residential area load
+Bangalore,T322,2025-09-03,35,-89,Medium,8.5,Normal operation
+Bangalore,T322,2025-09-04,37,-86,High,9.8,Weekend event nearby
+Bangalore,T322,2025-09-05,39,-90,Medium,9.6,Routine traffic
+Bangalore,T322,2025-09-06,43,-82,High,9.4,Heavy user load
+Bangalore,T322,2025-09-07,54,-91,High,10.5,Standard load conditions
+Bangalore,T322,2025-09-08,48,-82,High,7.5,New residential area load
+Bangalore,T322,2025-09-09,45,-82,High,11.2,Office-hours congestion
+Bangalore,T322,2025-09-10,45,-85,High,11.1,No anomalies reported
+Bangalore,T322,2025-09-11,44,-90,High,7.7,Heavy user load
+Bangalore,T322,2025-09-12,35,-85,Medium,9.0,Standard load conditions
+Bangalore,T322,2025-09-13,42,-83,High,8.1,No anomalies reported
+Bangalore,T322,2025-09-14,37,-87,Medium,9.3,Backhaul link degraded
+Chennai,T654,2025-09-01,14,-66,Low,3.4,Standard load conditions
+Chennai,T654,2025-09-02,24,-77,High,0.9,Office-hours congestion
+Chennai,T654,2025-09-03,15,-75,Low,3.1,Standard load conditions
+Chennai,T654,2025-09-04,4,-67,Low,0.5,Normal operation
+Chennai,T654,2025-09-05,9,-77,Medium,0.5,Backhaul link degraded
+Chennai,T654,2025-09-06,3,-68,Low,1.7,Standard load conditions
+Chennai,T654,2025-09-07,21,-72,High,0.5,Standard load conditions
+Chennai,T654,2025-09-08,13,-69,Low,0.5,Normal operation
+Chennai,T654,2025-09-09,9,-66,Medium,0.5,Routine traffic
+Chennai,T654,2025-09-10,5,-70,Low,1.8,No anomalies reported
+Chennai,T654,2025-09-11,9,-70,Medium,0.5,Standard load conditions
+Chennai,T654,2025-09-12,11,-75,Medium,1.4,Stable performance
+Chennai,T654,2025-09-13,12,-76,Medium,1.3,Stable performance
+Chennai,T654,2025-09-14,3,-67,Low,0.5,Routine traffic
+Chennai,T655,2025-09-01,25,-75,Medium,3.7,No anomalies reported
+Chennai,T655,2025-09-02,17,-75,Medium,2.5,Normal operation
+Chennai,T655,2025-09-03,15,-73,Medium,0.6,Standard load conditions
+Chennai,T655,2025-09-04,27,-70,High,2.6,No anomalies reported
+Chennai,T655,2025-09-05,13,-76,Low,3.2,Routine traffic
+Chennai,T655,2025-09-06,7,-75,Medium,0.8,Stable performance
+Chennai,T655,2025-09-07,14,-75,Medium,1.7,Normal operation
+Chennai,T655,2025-09-08,23,-78,High,3.2,Weekend event nearby
+Chennai,T655,2025-09-09,20,-74,Medium,1.3,No anomalies reported
+Chennai,T655,2025-09-10,15,-72,Medium,2.3,Standard load conditions
+Chennai,T655,2025-09-11,9,-77,Low,4.0,Normal operation
+Chennai,T655,2025-09-12,6,-71,Low,0.9,Standard load conditions
+Chennai,T655,2025-09-13,16,-70,High,0.5,Heavy user load
+Chennai,T655,2025-09-14,27,-73,High,2.5,New residential area load
+Delhi,T456,2025-09-01,30,-85,Medium,6.5,Standard load conditions
+Delhi,T456,2025-09-02,37,-77,High,7.0,Normal operation
+Delhi,T456,2025-09-03,34,-77,Medium,9.2,Routine traffic
+Delhi,T456,2025-09-04,25,-79,Medium,6.5,Stable performance
+Delhi,T456,2025-09-05,22,-78,Medium,9.6,No anomalies reported
+Delhi,T456,2025-09-06,39,-87,High,9.2,Office-hours congestion
+Delhi,T456,2025-09-07,44,-88,High,9.6,Normal operation
+Delhi,T456,2025-09-08,46,-84,High,9.2,Weekend event nearby
+Delhi,T456,2025-09-09,42,-86,High,6.3,Routine traffic
+Delhi,T456,2025-09-10,37,-87,Medium,8.7,Normal operation
+Delhi,T456,2025-09-11,40,-85,High,7.3,Routine traffic
+Delhi,T456,2025-09-12,40,-77,High,8.8,Office-hours congestion
+Delhi,T456,2025-09-13,45,-85,High,6.9,Weekend event nearby
+Delhi,T456,2025-09-14,43,-86,High,8.0,Office-hours congestion
+Delhi,T457,2025-09-01,26,-86,Medium,5.9,Normal operation
+Delhi,T457,2025-09-02,27,-77,Medium,8.1,Normal operation
+Delhi,T457,2025-09-03,37,-78,High,9.3,Stable performance
+Delhi,T457,2025-09-04,23,-85,Low,9.1,Standard load conditions
+Delhi,T457,2025-09-05,39,-81,High,9.6,Standard load conditions
+Delhi,T457,2025-09-06,44,-86,High,9.2,New residential area load
+Delhi,T457,2025-09-07,42,-82,High,8.3,No anomalies reported
+Delhi,T457,2025-09-08,28,-82,Medium,6.3,Routine traffic
+Delhi,T457,2025-09-09,17,-83,Low,7.9,Stable performance
+Delhi,T457,2025-09-10,36,-81,High,8.5,New residential area load
+Delhi,T457,2025-09-11,32,-83,Medium,9.3,Standard load conditions
+Delhi,T457,2025-09-12,37,-82,High,6.8,Weekend event nearby
+Delhi,T457,2025-09-13,46,-78,High,9.4,Normal operation
+Delhi,T457,2025-09-14,29,-83,Medium,9.2,Routine traffic
+Delhi,T458,2025-09-01,30,-81,High,7.1,Backhaul link degraded
+Delhi,T458,2025-09-02,33,-90,Medium,10.0,Routine traffic
+Delhi,T458,2025-09-03,41,-84,High,7.1,Peak hour traffic
+Delhi,T458,2025-09-04,51,-88,High,7.6,Recent equipment upgrade
+Delhi,T458,2025-09-05,51,-90,High,6.2,Routine traffic
+Delhi,T458,2025-09-06,34,-83,Medium,8.6,Standard load conditions
+Delhi,T458,2025-09-07,34,-81,High,8.4,New residential area load
+Delhi,T458,2025-09-08,31,-83,Medium,6.2,Backhaul link degraded
+Delhi,T458,2025-09-09,38,-81,High,9.0,New residential area load
+Delhi,T458,2025-09-10,44,-80,High,9.2,Routine traffic
+Delhi,T458,2025-09-11,51,-90,High,9.7,Weekend event nearby
+Delhi,T458,2025-09-12,36,-85,Medium,7.4,No anomalies reported
+Delhi,T458,2025-09-13,32,-84,Medium,9.7,Normal operation
+Delhi,T458,2025-09-14,29,-86,Medium,8.4,Stable performance
+Hyderabad,T123,2025-09-01,45,-98,Medium,10.3,Poor weather
+Hyderabad,T123,2025-09-02,52,-96,Medium,9.7,Routine traffic
+Hyderabad,T123,2025-09-03,63,-96,High,10.8,Peak hour traffic
+Hyderabad,T123,2025-09-04,56,-90,High,7.7,Normal operation
+Hyderabad,T123,2025-09-05,59,-92,High,11.2,Office-hours congestion
+Hyderabad,T123,2025-09-06,57,-95,High,8.1,New residential area load
+Hyderabad,T123,2025-09-07,56,-89,High,10.8,No anomalies reported
+Hyderabad,T123,2025-09-08,55,-91,High,10.1,Peak hour traffic
+Hyderabad,T123,2025-09-09,55,-94,Medium,11.3,Normal operation
+Hyderabad,T123,2025-09-10,63,-98,High,8.6,Routine traffic
+Hyderabad,T123,2025-09-11,66,-94,High,11.0,Office-hours congestion
+Hyderabad,T123,2025-09-12,63,-90,High,9.0,Peak hour traffic
+Hyderabad,T123,2025-09-13,63,-98,High,7.5,Weekend event nearby
+Hyderabad,T123,2025-09-14,67,-94,High,9.7,Normal operation
+Hyderabad,T124,2025-09-01,46,-94,High,10.3,No anomalies reported
+Hyderabad,T124,2025-09-02,51,-89,High,11.2,Office-hours congestion
+Hyderabad,T124,2025-09-03,71,-96,High,12.2,Stable performance
+Hyderabad,T124,2025-09-04,49,-87,Medium,12.7,Standard load conditions
+Hyderabad,T124,2025-09-05,64,-97,High,11.1,Peak hour traffic
+Hyderabad,T124,2025-09-06,65,-93,High,11.4,Standard load conditions
+Hyderabad,T124,2025-09-07,66,-90,High,12.0,Standard load conditions
+Hyderabad,T124,2025-09-08,63,-95,High,9.4,Peak hour traffic
+Hyderabad,T124,2025-09-09,48,-90,Medium,9.4,Normal operation
+Hyderabad,T124,2025-09-10,62,-95,High,11.1,Stable performance
+Hyderabad,T124,2025-09-11,67,-96,High,9.5,Heavy user load
+Hyderabad,T124,2025-09-12,59,-87,High,9.5,Recent equipment upgrade
+Hyderabad,T124,2025-09-13,62,-93,High,10.8,Scheduled maintenance window
+Hyderabad,T124,2025-09-14,55,-86,High,12.5,Stable performance
+Hyderabad,T125,2025-09-01,36,-82,High,10.3,Standard load conditions
+Hyderabad,T125,2025-09-02,47,-88,High,10.0,Office-hours congestion
+Hyderabad,T125,2025-09-03,45,-90,Medium,9.4,Routine traffic
+Hyderabad,T125,2025-09-04,39,-88,Medium,12.6,Routine traffic
+Hyderabad,T125,2025-09-05,49,-83,High,11.5,Standard load conditions
+Hyderabad,T125,2025-09-06,53,-90,High,10.3,New residential area load
+Hyderabad,T125,2025-09-07,46,-83,High,13.0,Normal operation
+Hyderabad,T125,2025-09-08,52,-88,High,9.7,Routine traffic
+Hyderabad,T125,2025-09-09,52,-87,High,10.4,Normal operation
+Hyderabad,T125,2025-09-10,55,-92,High,9.7,New residential area load
+Hyderabad,T125,2025-09-11,49,-85,High,10.0,Heavy user load
+Hyderabad,T125,2025-09-12,37,-89,Medium,10.3,No anomalies reported
+Hyderabad,T125,2025-09-13,50,-89,High,12.0,Peak hour traffic
+Hyderabad,T125,2025-09-14,45,-84,High,11.5,New residential area load
+Kolkata,T901,2025-09-01,18,-74,Low,3.9,Backhaul link degraded
+Kolkata,T901,2025-09-02,27,-82,High,6.0,Office-hours congestion
+Kolkata,T901,2025-09-03,11,-75,Low,4.3,Routine traffic
+Kolkata,T901,2025-09-04,4,-82,Low,5.9,Stable performance
+Kolkata,T901,2025-09-05,20,-78,Medium,5.2,No anomalies reported
+Kolkata,T901,2025-09-06,25,-77,High,3.5,Standard load conditions
+Kolkata,T901,2025-09-07,13,-78,Low,4.1,No anomalies reported
+Kolkata,T901,2025-09-08,16,-74,Low,6.3,Standard load conditions
+Kolkata,T901,2025-09-09,25,-75,Medium,6.5,Routine traffic
+Kolkata,T901,2025-09-10,16,-79,Medium,3.5,No anomalies reported
+Kolkata,T901,2025-09-11,23,-83,High,5.5,Weekend event nearby
+Kolkata,T901,2025-09-12,20,-77,Medium,4.3,Standard load conditions
+Kolkata,T901,2025-09-13,10,-77,Low,4.2,No anomalies reported
+Kolkata,T901,2025-09-14,25,-74,Medium,6.7,Standard load conditions
+Kolkata,T902,2025-09-01,32,-80,High,4.8,New residential area load
+Kolkata,T902,2025-09-02,37,-76,High,5.7,Normal operation
+Kolkata,T902,2025-09-03,26,-82,Medium,3.3,Routine traffic
+Kolkata,T902,2025-09-04,18,-74,Low,2.8,Normal operation
+Kolkata,T902,2025-09-05,33,-74,High,4.9,Office-hours congestion
+Kolkata,T902,2025-09-06,36,-83,High,4.2,Standard load conditions
+Kolkata,T902,2025-09-07,28,-76,Medium,4.2,Stable performance
+Kolkata,T902,2025-09-08,41,-82,High,5.1,New residential area load
+Kolkata,T902,2025-09-09,37,-78,High,4.1,No anomalies reported
+Kolkata,T902,2025-09-10,16,-79,Low,3.9,Normal operation
+Kolkata,T902,2025-09-11,19,-75,Medium,3.5,Routine traffic
+Kolkata,T902,2025-09-12,30,-74,High,6.2,Peak hour traffic
+Kolkata,T902,2025-09-13,36,-84,High,3.3,Routine traffic
+Kolkata,T902,2025-09-14,27,-81,Medium,5.7,Standard load conditions
+Mumbai,T789,2025-09-01,24,-81,Medium,2.7,Standard load conditions
+Mumbai,T789,2025-09-02,17,-76,Medium,1.5,No anomalies reported
+Mumbai,T789,2025-09-03,6,-78,Low,3.4,No anomalies reported
+Mumbai,T789,2025-09-04,25,-73,High,2.5,No anomalies reported
+Mumbai,T789,2025-09-05,9,-85,Low,2.5,Backhaul link degraded
+Mumbai,T789,2025-09-06,25,-83,High,3.9,New residential area load
+Mumbai,T789,2025-09-07,13,-80,Medium,1.1,Normal operation
+Mumbai,T789,2025-09-08,17,-80,High,0.7,Normal operation
+Mumbai,T789,2025-09-09,33,-83,High,3.4,Stable performance
+Mumbai,T789,2025-09-10,25,-80,Medium,3.8,Standard load conditions
+Mumbai,T789,2025-09-11,28,-84,High,3.4,Peak hour traffic
+Mumbai,T789,2025-09-12,15,-84,Low,0.5,Normal operation
+Mumbai,T789,2025-09-13,17,-76,Medium,3.2,No anomalies reported
+Mumbai,T789,2025-09-14,26,-77,High,3.0,Peak hour traffic
+Mumbai,T790,2025-09-01,28,-73,High,3.0,New residential area load
+Mumbai,T790,2025-09-02,33,-69,High,1.7,Weekend event nearby
+Mumbai,T790,2025-09-03,33,-73,High,0.5,Normal operation
+Mumbai,T790,2025-09-04,29,-72,High,0.8,Office-hours congestion
+Mumbai,T790,2025-09-05,34,-69,High,0.5,Stable performance
+Mumbai,T790,2025-09-06,20,-76,Medium,2.4,No anomalies reported
+Mumbai,T790,2025-09-07,24,-75,High,2.8,New residential area load
+Mumbai,T790,2025-09-08,9,-71,Low,3.2,Stable performance
+Mumbai,T790,2025-09-09,9,-74,Low,2.2,Routine traffic
+Mumbai,T790,2025-09-10,13,-78,Medium,0.9,Standard load conditions
+Mumbai,T790,2025-09-11,20,-72,High,1.0,Heavy user load
+Mumbai,T790,2025-09-12,24,-79,Medium,3.0,No anomalies reported
+Mumbai,T790,2025-09-13,22,-74,Medium,1.6,Standard load conditions
+Mumbai,T790,2025-09-14,31,-69,High,3.2,Standard load conditions
+Pune,T210,2025-09-01,17,-78,Medium,3.4,Normal operation
+Pune,T210,2025-09-02,11,-81,Low,4.4,Stable performance
+Pune,T210,2025-09-03,17,-86,Medium,3.3,Normal operation
+Pune,T210,2025-09-04,14,-84,Medium,2.9,Standard load conditions
+Pune,T210,2025-09-05,11,-77,Medium,3.3,Stable performance
+Pune,T210,2025-09-06,19,-83,High,1.3,Standard load conditions
+Pune,T210,2025-09-07,29,-83,High,1.4,Stable performance
+Pune,T210,2025-09-08,26,-81,High,2.0,No anomalies reported
+Pune,T210,2025-09-09,18,-77,Low,4.8,Standard load conditions
+Pune,T210,2025-09-10,19,-86,Medium,3.9,No anomalies reported
+Pune,T210,2025-09-11,13,-77,Low,3.0,Stable performance
+Pune,T210,2025-09-12,12,-84,Low,4.0,Normal operation
+Pune,T210,2025-09-13,25,-86,High,3.7,Heavy user load
+Pune,T210,2025-09-14,20,-83,Medium,3.1,Stable performance
+Pune,T211,2025-09-01,13,-70,Low,5.3,Standard load conditions
+Pune,T211,2025-09-02,28,-74,High,5.4,Routine traffic
+Pune,T211,2025-09-03,18,-72,Low,3.0,Recent equipment upgrade
+Pune,T211,2025-09-04,15,-70,Medium,3.0,Stable performance
+Pune,T211,2025-09-05,8,-78,Low,5.4,Stable performance
+Pune,T211,2025-09-06,26,-80,High,4.7,Stable performance
+Pune,T211,2025-09-07,20,-80,Medium,1.9,Normal operation
+Pune,T211,2025-09-08,33,-70,High,5.5,New residential area load
+Pune,T211,2025-09-09,34,-72,High,4.4,Heavy user load
+Pune,T211,2025-09-10,34,-72,High,2.5,New residential area load
+Pune,T211,2025-09-11,17,-70,Medium,2.1,Stable performance
+Pune,T211,2025-09-12,13,-73,Medium,4.9,Normal operation
+Pune,T211,2025-09-13,20,-74,Medium,2.9,Routine traffic
+Pune,T211,2025-09-14,14,-71,Medium,1.8,Routine traffic
